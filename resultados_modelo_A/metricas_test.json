@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.9925,
+  "precision": 0.9801980198019802,
+  "recall": 0.99,
+  "f1": 0.9850746268656716,
+  "test_samples": 400,
+  "threshold": 0.5
+}

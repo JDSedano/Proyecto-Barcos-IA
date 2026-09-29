@@ -1,0 +1,22 @@
+{
+  "modelo": "Barcos Modelo A V2",
+  "accuracy_threshold_050": 0.75,
+  "precision_threshold_050": 0.0,
+  "recall_threshold_050": 0.0,
+  "f1_threshold_050": 0.0,
+  "best_threshold": 0.3,
+  "accuracy_best_threshold": 0.75,
+  "precision_best_threshold": 0.0,
+  "recall_best_threshold": 0.0,
+  "f1_best_threshold": 0.0,
+  "test_samples": 400,
+  "trainval_samples": 3600,
+  "seed": 42,
+  "image_size": [
+    80,
+    80
+  ],
+  "batch_size": 32,
+  "epochs_max": 50,
+  "learning_rate": 0.0005
+}
